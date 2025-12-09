@@ -26,13 +26,6 @@ I am a systems-focused software engineer passionate about **low-latency architec
 
 ---
 
-### 📊 GitHub Stats
-
-[![Godfrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganto23&show_icons=true&theme=radical)](https://github.com/Ganto23)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ganto23&layout=compact&theme=radical)](https://github.com/Ganto23)
-
----
-
 ### 📫 Connect
 <a href="https://www.linkedin.com/in/abhijit-godfrey-antomarlin/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
