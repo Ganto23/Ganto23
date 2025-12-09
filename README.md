@@ -29,12 +29,8 @@ I am a systems-focused software engineer passionate about **low-latency architec
 ### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/Ganto23">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ganto23&show_icons=true&theme=midnight-purple&hide_border=true" alt="Ganto23's Stats" />
-  </a>
-  <a href="https://github.com/Ganto23">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganto23&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganto23&show_icons=true&theme=midnight-purple&hide_border=true&count_private=false&include_all_commits=false" alt="Ganto23's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganto23&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
 </p>
 
 ---
